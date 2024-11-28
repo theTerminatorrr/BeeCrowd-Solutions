@@ -1,1 +1,1 @@
-# BeeCrowd-Solutions
+Hello Programmers! Hope you all are doing well. I'm Jahidul Islam Jony. I'm a from United International University Dhaka - Banglasdesh. As a Computer Science student, I just completed learning Java language. As it's a highly demanding language worldwide I practice some codes from 'BeeCrowd'. Here is all of my BeeCrowd Solutions. If it helps you then, please keep me in your prayer. Thank you Guysss!
