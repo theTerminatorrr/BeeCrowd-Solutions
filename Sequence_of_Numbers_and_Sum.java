@@ -28,9 +28,5 @@ public class Sequence_of_Numbers_and_Sum
             }
             System.out.println("Result : " +sum);
         }
-
-
-
-
     }
 }
