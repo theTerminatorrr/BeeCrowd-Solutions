@@ -15,3 +15,5 @@ public class Average1 {
         System.out.printf("MEDIA = %.5f%n", average);
     }
 }
+
+
