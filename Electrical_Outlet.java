@@ -14,7 +14,8 @@ public class Electrical_Outlet
         int T4 = sc.nextInt();
 
         int maxDevices = (T1 - 1) + (T2 - 1) + (T3 - 1) + T4;
-
+        
         System.out.println(maxDevices);
     }
 }
+
